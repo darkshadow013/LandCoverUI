@@ -53,7 +53,7 @@ function Results(props) {
                         </div>
                         <div className="jumbotron" style={{ height: "max-content", padding: "2rem 1rem" }}>
                             <h3 className="jumbotron-heading">Dissimilarity Image(GT - Hybrid)</h3>
-                            <img alt="Dissimilarity Image" src="Dissimilarity.png" onClick={() => {
+                            <img alt="Dissimilarity" src="Dissimilarity.png" onClick={() => {
                                 setModalShow(true);
                                 setImageTitle("Dissimilarity Image(GT - Hybrid)");
                                 setImageSrc("Dissimilarity.png");
