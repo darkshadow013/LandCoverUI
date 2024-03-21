@@ -5,6 +5,7 @@
 This project is the front end of the work that has been carried out in [this](https://github.com/darkshadow013/Land-Cover-ML) Repository.
 
 The UI of this project is just an static website which shows the images of 
+
 	1. Ground Truth
 	2. Predicted Image
 	3. Dissimilarity Image
